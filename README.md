@@ -1,2 +1,4 @@
-# .llcppg
-LLGo bindings template project
+MODULE_NAME
+=====
+
+LLGo bindings for MODULE_NAME.
